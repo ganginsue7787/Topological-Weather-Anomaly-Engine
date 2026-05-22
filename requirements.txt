@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+xarray
+scipy
+netCDF4
+ripser
+persim
